@@ -1,1 +1,3 @@
-# desafiopowerbimysqlazure
+# Desafio Power BI MySQL Azure
+
+No Power Query do Power BI, "Acrescentar consultas" e "Mesclar consultas" sao operacoes distintas qye permitem combinar e transformar dados de diferentes fontes. A primeira, permite combinar duas ou mais consultas em única tabela e devem ter a mesma estrutura de colunas. Ela deve ser usada quando voce deseja concatenar os dados de diferentes fontes de forma vertical. Já a segunda, permite combinar duas ou mais consultas com base em uma ou mais colunas comuns, criando uma relacao entre elas. Ela deve ser usada quando se deseja combinar dados de diferentes fontes com base em uma condicao específica.  
